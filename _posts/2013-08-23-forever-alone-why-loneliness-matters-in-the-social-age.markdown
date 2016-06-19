@@ -154,9 +154,10 @@ In the year that followed, I started a fraternity with some of the best kids I'd
 
 ## Additional Reading
 
+* [Hacker News discussion on this post](https://news.ycombinator.com/item?id=7244614)
 * [How do you cope with being lonely?](http://www.reddit.com/r/AskReddit/comments/1nwcod/how_do_you_cope_with_being_lonely/)
 * [The Science of Loneliness: How Isolation Can Kill You](http://www.newrepublic.com/article/113176/science-loneliness-how-isolation-can-kill-you)
-* [Hacker News discussion on this post](https://news.ycombinator.com/item?id=7244614)
+* [All the lonely people](http://www.ucobserver.org/society/2016/06/lonely_people/)
 
 ## Footnotes
 
