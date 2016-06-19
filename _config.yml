@@ -20,5 +20,5 @@ defaults:
     type: pages
   values:
     layout: page
-permalink: "/:title/"
+permalink: pretty
 Field name: 
