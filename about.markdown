@@ -5,4 +5,6 @@ permalink: "/meta/"
 Field name: 
 ---
 
-Hello, my name is Jonathan E. Chen. 
+![chen_by_kath.jpg](/uploads/chen_by_kath.jpg)
+
+My name is Jonathan E. Chen. I go by wikichen on the web. I'm a product designer working at Facebook. Say hello on [Twitter](https://twitter.com/wikichen).
