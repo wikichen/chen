@@ -1,6 +1,7 @@
 ---
 title: 'Forever alone: why loneliness matters in the social age'
 date: 2013-08-23 12:00:00 Z
+layout: post
 ---
 
 > I got up and went over and looked out the window. I felt so lonesome, all of a sudden. I almost wished I was dead. Boy, did I feel rotten. I felt so damn lonesome. I just didn't want to hang around any more. It made me too sad and lonesome.
