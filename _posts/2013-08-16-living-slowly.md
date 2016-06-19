@@ -1,7 +1,7 @@
 ---
+title: A day lived slowly in Taipei
+date: 2013-08-16 00:00:00 Z
 layout: post
-title:  "A day lived slowly in Taipei"
-date:   2013-08-16
 ---
 
 I waited, with equal parts anticipation and nervousness, under the collective shade of some trees outside the gated entrance of an all female high school in Tainan. We had agreed to meet here, but with sweat steadily running down my back under an unforgiving midday sun I wondered why I didn’t think to suggest somewhere indoors, and preferably air conditioned.
