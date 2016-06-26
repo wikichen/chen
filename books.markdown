@@ -17,10 +17,28 @@ layout: page
 * Thinking with Type
 * Making and Breaking the Grid
 * Interaction of Color
-* About Face
+* About Face 3
+
+## Digital Product Design
+
+* The Best Interface is No Interface
 * Elements of User Experience
+* Product Design for the Web
+
+## Cognitive Psychology
+
+* Predictably Irrational
+* Thinking, Fast and Slow
+* Drive
+* Hooked
 
 ## Inspiration
 
+* Art & Fear
 * Creativity, Inc. 
-* 
+* Kern and Burn
+
+## Miscellaneous 
+
+* The Signal and the Noise
+* Four Steps to the Epiphany
