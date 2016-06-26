@@ -31,6 +31,13 @@ layout: page
 * Thinking, Fast and Slow
 * Drive
 * Hooked
+* Made to Stick
+
+## Data Viz and Infographics
+
+* The Visual Display of Quantitative Information
+* The Signal and the Noise
+* Photoviz
 
 ## Inspiration
 
