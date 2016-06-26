@@ -19,11 +19,12 @@ layout: page
 * Interaction of Color
 * About Face 3
 
-## Digital Product Design
+## Product Design
 
 * The Best Interface is No Interface
 * Elements of User Experience
 * Product Design for the Web
+* Sprint
 
 ## Cognitive Psychology
 
@@ -43,9 +44,9 @@ layout: page
 
 * Art & Fear
 * Creativity, Inc. 
+
+## Entrepreneurship
+
 * Kern and Burn
-
-## Miscellaneous 
-
-* The Signal and the Noise
 * Four Steps to the Epiphany
+* The Hard Things About Hard Things
