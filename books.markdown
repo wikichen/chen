@@ -1,7 +1,7 @@
 ---
 title: Books
 date: 2016-06-26 19:39:00 Z
-permalink: "/reading"
+permalink: "/reading/"
 ---
 
 ## Design Primers
@@ -18,3 +18,8 @@ permalink: "/reading"
 * Interaction of Color
 * About Face
 * Elements of User Experience
+
+## Inspiration
+
+* Creativity, Inc. 
+* 
