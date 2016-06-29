@@ -1,5 +1,5 @@
 ---
-title: Books
+title: Library
 date: 2016-06-26 19:39:00 Z
 permalink: "/reading/"
 layout: page
